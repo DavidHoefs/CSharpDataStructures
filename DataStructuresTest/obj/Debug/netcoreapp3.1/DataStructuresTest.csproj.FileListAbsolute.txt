@@ -1,0 +1,13 @@
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\bin\Debug\netcoreapp3.1\DataStructuresTest.exe
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\bin\Debug\netcoreapp3.1\DataStructuresTest.deps.json
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\bin\Debug\netcoreapp3.1\DataStructuresTest.runtimeconfig.json
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\bin\Debug\netcoreapp3.1\DataStructuresTest.runtimeconfig.dev.json
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\bin\Debug\netcoreapp3.1\DataStructuresTest.dll
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\bin\Debug\netcoreapp3.1\DataStructuresTest.pdb
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\obj\Debug\netcoreapp3.1\DataStructuresTest.csprojAssemblyReference.cache
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\obj\Debug\netcoreapp3.1\DataStructuresTest.AssemblyInfoInputs.cache
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\obj\Debug\netcoreapp3.1\DataStructuresTest.AssemblyInfo.cs
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\obj\Debug\netcoreapp3.1\DataStructuresTest.csproj.CoreCompileInputs.cache
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\obj\Debug\netcoreapp3.1\DataStructuresTest.dll
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\obj\Debug\netcoreapp3.1\DataStructuresTest.pdb
+C:\Users\dhoefs\source\repos\DataStructuresTest\DataStructuresTest\obj\Debug\netcoreapp3.1\DataStructuresTest.genruntimeconfig.cache
